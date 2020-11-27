@@ -1,1 +1,1 @@
-FROM ubuntu:20.04
+FROM 323951893878.dkr.ecr.ap-northeast-1.amazonaws.com/ubuntu:20.04
